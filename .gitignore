@@ -1,0 +1,34 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+dist/
+build/
+
+# TypeScript
+*.tsbuildinfo
+
+# Env
+.env
+backend/.env
+flutter_app/.env
+
+# Flutter
+**/build/
+.flutter-plugins
+.flutter-plugins-deps
+.flutter-*
+.packages
+.pub-cache/
+.pub/
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Optional: VS Code settings
+.vscode/
