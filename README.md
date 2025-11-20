@@ -366,25 +366,6 @@ Headers: X-Client-Domain: cliente2.local
 - **Equatable** - Value equality
 - **Secure Storage** - Persistência segura
 
-## 📝 Critérios de Aceite
-
-### ✅ Backend (NestJS)
-- [x] Feito em NestJS
-- [x] Login funcional com JWT
-- [x] Diferenciação de clientes (whitelabel)
-- [x] Collection Postman completa
-- [x] Documentação dos endpoints (Swagger)
-- [x] DER do banco de dados
-
-### ✅ Frontend (Flutter)
-- [x] Feito em Flutter
-- [x] Login funcional
-- [x] Listagem de produtos
-- [x] Filtros de produtos (busca, categoria, preço)
-- [x] Consulta via API própria (não direto aos fornecedores)
-- [x] Whitelabel funcional
-- [x] Documentação de arquitetura (Clean Architecture)
-
 ## 🚨 Troubleshooting
 
 ### Backend não inicia
@@ -408,7 +389,6 @@ MIT
 
 ---
 
-**Desenvolvido para o teste técnico Devnology**
+**Desenvolvido para o teste técnico**
 
-**Autor**: Claude Code
 **Data**: 2025
